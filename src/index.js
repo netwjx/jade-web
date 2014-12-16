@@ -1,1 +1,1 @@
-require('./runtime.js');
+this.jade = require('./runtime.js');
